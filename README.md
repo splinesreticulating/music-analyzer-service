@@ -23,7 +23,7 @@ A simple FastAPI service that uses [Essentia](https://essentia.upf.edu/) to extr
 
 ```bash
 # Clone the repo
-git clone git@github.com:splinesreticulating/music-analyzer.git
+git clone git@github.com:splinesreticulating/music-analyzer-service.git
 
 # Create and activate a virtual environment
 python3 -m venv .venv
