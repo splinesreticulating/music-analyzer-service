@@ -1,0 +1,47 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Logs & debug
+*.log
+*.tmp
+*.swp
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# macOS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Byte-compiled C extensions
+*.so
+
+# Test coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# FastAPI / Uvicorn reload files
+*.pid
+
+# Env vars / secrets
+.env
+.env.*
