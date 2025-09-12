@@ -28,7 +28,7 @@ git clone git@github.com:splinesreticulating/music-analyzer.git
 # Create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
-2.1b6
+
 # Install dependencies
 pip install -r requirements.txt
 ```
